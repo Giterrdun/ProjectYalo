@@ -1,0 +1,3 @@
+/home/dev/Documents/ProjectYalo/build/CMakeFiles/Yalo.dir
+/home/dev/Documents/ProjectYalo/build/CMakeFiles/edit_cache.dir
+/home/dev/Documents/ProjectYalo/build/CMakeFiles/rebuild_cache.dir
